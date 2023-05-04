@@ -1,0 +1,1 @@
+This is a code repository containing the python code exercises from the online book, "Problem Solving with Algorithms and Data Structures using Python", by Brad Miller and David Ranum, Luther College: https://runestone.academy/ns/books/published/pythonds3/index.html
